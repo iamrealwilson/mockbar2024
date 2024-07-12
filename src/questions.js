@@ -81,9 +81,84 @@ const questions = [
   },
   {
     "id": 17,
-    "text": "Compare and contrast “overbreadth doctrine” from “void-forvagueness” doctrine. (5%)",
+    "text": "1. Lebron, a Makati resident, obtained a Php 350,000.00 loan from a bank secured by a real estate mortgage (REM) over his lot located in Quezon City with an assessed value of Php 500,000.00. Lebron failed to pay despite written demands. The bank intends to file an action for judicial foreclosure of the REM. Where should the action for judicial foreclosure of the REM be filed and in which court? Explain briefly. (5 points)",
     type: "essay"
-  }
+  },
+  {
+    "id": 18,
+    "text": "Asya, Inc. sued Kobe, a resident of Bukidnon. To serve summons, the sheriff waited in the lobby of Makati Hotel (MH), where Kobe stays whenever he is in Manila. The sheriff failed to serve the summons because Kobe left the hotel for an emergency. Hours later, the sheriff asked the front desk about Kobe’s whereabouts and his room number. The hotel refused to disclose on grounds of confidentiality. The sheriff tried again the next day, but Kobe was in a conference until midnight. So, the following day, the sheriff left the summons and a copy of the complaint with MH's chief security officer (CSO), even as the CSO refused because Kobe had already checked out by then. The sheriff thereafter filed his return, stating the dates, times and places of his attempts, the name of the CSO, and the fact that the complaint was served with the summons. When Kobe did not file an Answer, Asya, Inc. moved to declare him in default. Was there a valid substituted service of summons? Explain briefly. (5 points)",
+    "type": "essay"
+  },
+  {
+    "id": 19,
+    "text": "Ten days after service of summons, defendant Kay filed a motion to dismiss the complaint for collection of sum of money against her on the ground of improper service of summons, on the basis of which the court did not acquire jurisdiction over her person. If you were the judge, how would you rule? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 20,
+    "text": "[This item has two questions.] Attorney Woo, the newly-hired lawyer of a law firm, booked Samurai Express, a duly accredited courier service within the National Capital Judicial Region, to serve a copy of a motion for reconsideration to Attorney Han, counsel for the adverse party, whose office is in the City of Manila. Attorney Han moved to deny the motion for failure to contain a written explanation as to why the motion was not served personally. (a) Was the motion for reconsideration properly served? Explain briefly. (b) What shall be considered as proof of service of this motion? Explain briefly. (5 points)",
+    "type": "essay"
+  },
+  {
+    "id": 21,
+    "text": "Jimuel filed against his wife Jewel a petition for the declaration of nullity of their marriage, alleging as ground therefor Jewel’s psychological incapacity under Article 36 of the Family Code. The court denied the petition for insufficiency of the evidence presented at the trial. Much later, Jimuel again filed a petition against Jewel for the declaration of nullity of their marriage. This time, the basis 4 of 6 of Jimuel’s petition was the absence of a marriage license at the time their marriage was celebrated. Upon Jewel's motion, the court dismissed the petition on the ground of res judicata by virtue of the judgment in the first suit. Was the denial of the petition on the ground of res judicata proper? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 22,
+    "text": "Isol, Inc. supplies rotisserie chicken products to the grocery section of shopping malls. It conducts kitchen operations in a refurbished house located in Palanan, a residential neighborhood. Rona, a resident of Palanan, filed an action against Isol, Inc. to enjoin the operations of its kitchen on the ground that it emits intolerable odors and violates laws on waste disposal. In the same action, Rona also seeks to have Isol, Inc.’s business permit revoked because an industrial facility is not allowed by law to be located in a residential neighborhood and Isol, Inc. failed to comply with sanitary inspection and other procedural and health requirements. In the complaint Rona filed, she likewise prayed for the issuance of a writ of preliminary injunction (WPI) to stop the kitchen operations during the pendency of the case. Isol, Inc., in its verified answer, strongly opposed the prayer for WPI considering the huge financial disaster that it will suffer if the writ were to be issued, especially in light of the possibility that the suit could continue to be pending for more than a year. Based on the foregoing, may the WPI prayed for already be issued? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 23,
+    "text": "Is a prior determination of the status as a legal heir in a separate special proceeding a prerequisite to an ordinary civil action seeking the protection and enforcement of ownership rights of such legal heir vested by the law of succession? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 24,
+    "text": "Namjoon, a Korean national, and Regine, a Filipina, were married in Makati City on February 14, 2012. Unfortunately, their relationship shortly turned sour and ended with a divorce by mutual agreement in South Korea. The local court in Korea granted the divorce. Wanting to marry her new boyfriend Taehyung, Regine filed a petition for recognition of the foreign decree of divorce in the Regional Trial Court (RTC) of Cebu where she resides. The Office of the Solicitor General (OSG) opposed the petition contending that the proper remedy is a special proceeding for cancellation or correction of entries in the civil registry under Rule 108 of the Rules of Court, which can only be filed in the RTC of Makati where the marriage was celebrated and recorded in the Civil Registry of Makati. Is the OSG’s contention tenable? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 25,
+    "text": "Notting Hill Corp. filed an action for forcible entry against the ten occupants of a parcel of land it owns. After the summary proceedings, the Municipal Trial Court (MTC) rendered judgment against the ten defendants. The defendants filed a notice of appeal, but failed to file a supersedeas bond to stay the judgment to vacate. Upon Notting Hill Corp.’s motion, the MTC issued a writ of execution. 5 of 6 When Hugh, the sheriff, was implementing the writ of execution, he discovered that the land was occupied by a number of families who all claimed that they were legitimate lessees of the ten defendants. Julia, one of the lessees, pleaded with Hugh, beseeching: `Im just a lessee, standing in front of a sheriff, asking him to let me stay in my home.` May Hugh implement the writ of execution against the lessees? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 26,
+    "text": "An Information for Murder was filed against the accused Demo and Onyok. It reads: `That on or about the 9th day of March 2008, in the City of Las Piñas, Philippines and within the jurisdiction of this Honorable Court, the abovenamed accused, conspiring and confederating together and both of them mutually helping and aiding each other, without justifiable motive, with intent to kill and with treachery and abuse of superior strength, did then and there knowingly, unlawfully and feloniously attack, assault and use personal violence upon one Angel Rosario, by then and there repeatedly hitting and beating his head with a baseball bat, thereby inflicting upon the latter mortal injury which caused his death. Contrary to law.`  The accused filed a motion to quash on the ground that the Information does not conform substantially to the prescribed form. Is the accused correct? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 27,
+    "text": "Cain was indicted under an Information charging him with the crime of Murder. He was caught by the police in flagrante delicto as the incident happened in a public place with many witnesses present. Videos of the incident were also posted online which the judge was able to watch. During his arraignment, Cain pleaded guilty to the crime charged. The Regional Trial Court (RTC) accepted the plea because it was made voluntarily and with full understanding of the consequences. The RTC directed the prosecution to present evidence to prove Cain’s guilt. However, the prosecution failed to present any evidence during the scheduled hearings. The RTC then ruled and found Cain guilty beyond reasonable doubt based solely on his plea of guilt. Was Cain’s conviction proper? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 28,
+    "text": "Enumerate and describe three warrants that may be issued by the courts pursuant to the Rule on Cybercrime Warrants. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 29,
+    "text": "Ricky, while driving his Maserati, smashes into the Toyota Vios of Dante. Immediately after the incident, Ricky offers to pay the value of the Toyota Vios. 6 of 6 Dante still sued Ricky criminally for Reckless Imprudence because of Ricky’s wayward and speedy driving. During trial, Dante was called as witness to testify on Ricky’s offer to compromise as an admission of guilt. Ricky’s counsel objected. If you were the judge, how would you rule on the objection? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 30,
+    "text": "Klaus was drinking in front of his rented apartment when he suddenly heard a gunshot which came from inside the apartment owned by Luther. Klaus then saw Igor, a neighbor, going down the stairs and leaving the scene holding a gun. Klaus also witnessed Luther fall from the stairs with blood oozing from his chest. Vanya, Luther’s daughter, also rushed to Luther when he fell. During Igor’s trial for Murder, Vanya testified and presented a flash drive containing the closed-circuit television (CCTV) footages of the scene. Said footages showed a man appearing to be Igor, armed with a gun, proceeding up the stairs and entering Luther’s apartment. In the video, the same man was seen hastily leaving the premises. Vanya further testified that she was the one who transferred to the flash drive the video footages from the barangay-owned CCTV that was located outside their apartment. When the footages were played in court and an enlarged screenshot was presented, Vanya identified the shooter as Igor. The defense objected on the ground that Vanya was not the recorder of the video footages.  Are the CCTV footages admissible as electronic evidence? Explain briefly.(5 points)",
+    type: "essay"
+  },
+  {
+    "id": 31,
+    "text": "In a case for Estafa, the prosecution offered the photocopy of the acknowledgment receipt signed by the accused showing personal receipt of the sum of money from the private complainant to prove the amount of damage. Accused objected to the offer of the photocopy on the sole ground that it is a mere reproduction of the original in violation of the original document rule. The court overruled the accused’s objection and admitted in evidence the photocopy of the acknowledgment receipt. Did the court err in admitting the photocopy? Explain briefly. (5 points)",
+    type: "essay"
+  },
+  {
+    "id": 32,
+    "text": "Who are the public officers?",
+    type: "essay"
+  },
   ];
 
 export default questions;
