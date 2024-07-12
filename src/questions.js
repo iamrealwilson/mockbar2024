@@ -460,6 +460,106 @@ const questions = [
     "text": "The employees of Bonifacio Memorial Hospital (BMH), who are union officers and members of BMH Nurses Association, staged a strike to protest the failure of BMH to provide them with adequate personal protective equipment and sufficient hazard pay. What legal remedy can BMH avail of to immediately enjoin the strike as well as ensure the proper protection of the life and health of its patients? Explain your answer.",
     "type": "essay"
   },
+  {
+    "id": 93,
+    "text": "Catalina, a Spanish national, and Conrado, a Filipino, set up a counterfeiting factory in Shenzhen, China. Their factory produces fake United States (US) Dollars, Japanese Yen, and Philippine Pesos, which are distributed only in Europe and the US. While vacationing in Panglao, Bohol, they were arrested by a special task force of the National Bureau of Investigation on the strength of a warrant of arrest issued by a Philippine court for Counterfeiting and Forgery. Both Catalina and Conrado claimed that the Philippine court does not have jurisdiction over them since they did not commit any criminal act within the territory of the Philippines. Catalina also argued that the Philippine court does not have jurisdiction over her person as she is a Spanish citizen. Are Catalina and Conrado correct? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 94,
+    "text": "When Joey came home from work, he saw a man and a woman making love in the main bedroom. Enraged at the thought that his wife, Abby, was unfaithful to him, he shot the man and woman to death. However, the couple turned out to be the driver and kasambahay. The families of the decedents filed a case of double Homicide against Joey. Joey invoked the defense of mistake of fact, arguing that he thought the persons he shot were his wife and her lover. Thus, he is entitled to the privilege or benefit of Article 247 of the Revised Penal Code, which entitles a legally married person, who having surprised his or her spouse in the act of sexual intercourse, kills or seriously injures the same, to the penalty of destierro for being an exceptional circumstance. Is Joey correct in invoking the defense of mistake of fact? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 95,
+    "text": "Domeng, in conspiracy with Dado and Dario, kidnapped and detained 9-year-old Rosanna. They demanded ₱2 million as ransom money from the family of Rosanna in exchange for her life and liberty, which the family agreed to pay. However, Domeng, Dado, and Dario killed Rosanna while she was in captivity. What crime, if any, did Domeng, Dado, and Dario commit? Discuss your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 96,
+    "text": "During a concert at nighttime held in the Cultural Center of the Philippines, Chito physically assaulted another attendee, Butch. Chito slapped Butch several times in front of the President of the Philippines, who was also present. Are there any modifying circumstances affecting the criminal liability of Chito? Explain your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 97,
+    "text": "Mark was charged with Rape as a principal by direct participation while his employer, Ado, was charged as a principal by inducement for forcing Mark to commit rape by holding him at gunpoint. Mark was acquitted by the trial court for having acted under the compulsion of an irresistible force. Meanwhile, Ado was convicted of Rape. Ado appealed on the ground that he cannot be held liable because there can be no crime if there is no principal by direct participation. Is the argument of Ado tenable? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 98,
+    "text": "Pido, a private contractor, was convicted of Plunder in conspiracy with certain government officials. He was sentenced by the Sandiganbayan to serve the penalty of reclusion perpetua. Years later, his childhood friend, Benjamin, was appointed as Secretary of Justice and was able to convince the President to grant Pido a presidential pardon. Both the judgment of conviction and the presidential pardon were silent as to accessory penalties. Now a free man, Pido decided to give back to the community by running for public office as Mayor of his hometown in Bulacan. The incumbent Mayor sought your advice if he can challenge the candidacy of Pido. On what ground/s can the incumbent Mayor challenge the candidacy of Pido? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 99,
+    "text": "Miguel was charged with Murder for the death of his neighbor, Nikkolas. During trial, the prosecution established that treachery and evident premeditation attended the killing of Nikkolas. Hence, the trial court found Miguel guilty as charged and sentenced him to suffer the penalty of reclusion perpetua. Upon the lapse of his 30th year in prison, Miguel filed a petition for a writ of habeas corpus on the ground that under the three-fold rule, he had served the maximum of his sentence and that his continued imprisonment is a violation of his right to liberty. Will the petition of Miguel prosper? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 100,
+    "text": "Samuel, a Filipino citizen of Chinese descent, assisted the Chinese Government in surveying and determining the safest and most secure shores in the Philippines. He thought he was helping the Philippines in this endeavor since the geodetic maps he prepared would allegedly be transmitted to the Philippines for future use. Before the survey was completed, Chinese military vessels entered the Philippines’ Scarborough shores, set up a station secured by two warships, and populated two islets which the Chinese Government proclaimed as their own, all with the use of the geodetic maps. Samuel was then charged with Treason by the Philippine Government. The following testified against Samuel: 1) his helper, Therese, who saw Samuel in numerous meetings with the Chinese Government, though she did not understand their conversations since she does not know Chinese; and 2) his gardener, Rolando, who knows Chinese but has bad eyesight. Rolando was present in all these meetings and had a glimpse of the finished geodetic maps signed by Samuel. Is Samuel liable for Treason? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 101,
+    "text": "Macario, a student activist known for his anti-government views, decided to take measures into his own hands and carried out the following activities: 1) he mobilized his barangay and instructed its members on the finer points of mass uprising; 2) he organized the People’s Liberation Organization against Poverty (PLOP) and led a march to Malacañan to air their grievances, chanting subversive words denouncing the lack of action by the government to alleviate their plight; 3) he divided PLOP into groups of four members and ordered them to commit theft, raising over a million pesos to finance their activities; and 4) he posted a threat on his highly popular social media account that he will bomb several malls in Metro Manila, if the government will not give in to his demands of providing temporary cash handouts to the unemployed by the end of the month. The police then arrested Macario and charged him with violation of the Anti-Terrorism Act.Will the charge prosper? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 102,
+    "text": "Noel, Omar, and Dennis were all convicted of Illegal Possession of Drug Paraphernalia and sentenced to seven months in jail. On their third month, a typhoon caused flood waters to rise up to five feet in the jail facility. Fearing for the lives of the prisoners in the facility, the Jail Warden released all 30 prisoners, with a directive that they should return when the storm ceases. When the storm passed, only Noel, Omar, and Dennis turned themselves in, with the explanation that they would have starved if they did not return. Later, Noel, Omar, and Dennis were charged with Evasion of Service of Sentence because they returned not to continue to serve their sentence but for fear of starving. The Jail Warden was likewise charged with Infidelity in the Custody of Prisoners. Rule on the respective criminal liabilities of Noel, Omar, and Dennis, and the Jail Warden, if any.",
+    "type": "essay"
+  },
+  {
+    "id": 103,
+    "text": "Out of their miserable feeling that they are starving while the wealthy people in Mayaman Hills subdivision are practically throwing away their food, riding in expensive cars, and living in extravagance, Primo, Victor, and Maximo marched to said subdivision and stoned the houses there as an act of hate against the rich. With what crime, if any, should the apprehending officers charge Primo, Victor, and Maximo? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 104,
+    "text": "The employees of Bonifacio Memorial Hospital (BMH), who are union officers and members of BMH Nurses Association, staged a strike to protest the failure of BMH to provide them with adequate personal protective equipment and sufficient hazard pay. What legal remedy can BMH avail of to immediately enjoin the strike as well as ensure the proper protection of the life and health of its patients? Explain your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 105,
+    "text": "Timoteo recently lost his job as a security guard at Kabayan Corporation. He blamed his termination on his former co-worker, Tales, because the latter was allegedly badmouthing him at their workplace. One day, Timoteo went back to the company premises to retrieve his things. When he saw Tales, a heated exchange ensued between the two. Timoteo then pulled out his gun and shot Tales in the neck. When the latter dropped to the ground, Timoteo approached him, kneeled on top of him, and shot him in the head, instantly killing Tales. Timoteo tried to escape but his other former co-workers caught him. Timoteo was then charged with Murder, with treachery as a qualifying circumstance. Is Timoteo guilty of Murder? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 106,
+    "text": "Rita asked Belen, a 14-year-old girl, to meet with her at DuoMart Supermarket for an errand. Upon meeting at the supermarket, however, Rita brought Belen to the nearby hotel and met Elmer. Rita left the other two in the room, where Elmer had carnal knowledge of Belen. When Rita returned, Elmer paid her ₱2,200, of which ₱700 was then given to Belen. Rita warned Belen not to tell anyone about what happened. Before they could all leave the hotel room, the police barged in and arrested Elmer and Rita. During the investigation, Rita argued that she did not force Belen to have sex with Elmer for a fee. Belen herself admitted that she consented to have sexual intercourse with Elmer. What crime, if any, is Rita liable for? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 107,
+    "text": "Jon and Pilar were in a dating relationship for a year but due to the abusive behavior of Jon, Pilar broke up with him. Jon pursued Pilar but she refused to reconcile with him. He then uploaded to his social media account the video of their sexual congress, as well as the nude pictures of Pilar, all of which he had recorded on his cellphone without the knowledge of the latter. Distraught, Pilar filed a complaint with the Office of the Prosecutor and submitted in evidence the video and pictures that Jon posted on social media. What offense, if any, did Jon commit? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 108,
+    "text": "Linceo and Adolfo worked for the same employer who allowed them to reside in a compound in Pasay City. While Flerida, the 7-year-old daughter of Linceo, was playing with five other friends on a bulldozer parked near the compound, Adolfo, who was working nearby, chased the children in anger and told them to climb down the bulldozer. Except for Flerida, all the other children quickly complied and left. Eventually, Flerida went down and sat on the nearby pile of coconut lumber. Adolfo then approached Flerida and poked a welding rod into her genital area. Flerida cried in pain and saw her vagina bleeding. What crime, if any, should Adolfo be charged with? Explain your answer. ",
+    "type": "essay"
+  },
+  {
+    "id": 109,
+    "text": "Soccoro owns and leases an apartment building where Rami is one of the tenants under a two-year lease. The first year went by with no issue as Rami paid his rent on time, if not earlier. However, when he lost his job after the pandemic, Rami failed to pay his rent beginning the third month of the second year of the lease. Soccoro repeatedly demanded payment from him but to no avail. Thus, she filed a case for ejectment against Rami. When Rami received the summons, he locked himself in the apartment unit. This infuriated Soccoro so much so that she padlocked the apartment unit and cut off its utilities when Rami momentarily left to go to the supermarket. What crime, if any, did Soccoro commit? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 110,
+    "text": "Police Colonel Wally had been courting Delia for more than a year. One day, he invited Delia for some coffee and snacks, which she accepted. Wally arrived in their agreed meeting place and once there, he escorted Delia inside his car. Instead of going to a nearby coffee shop, he drove to Lipa City, Batangas, and forcibly detained Delia in a secluded resort against her will, preventing her from leaving until she agreed to marry him. Days after, Delia relented and Pastor Tiburcio solemnized the wedding. Visibly disturbed by the profuse crying of Delia, Pastor Tiburcio reported the matter to the authorities. What crime, if any, is Wally liable for? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 111,
+    "text": "Metropolitan Waterworks Sewerage System (MWSS) employee Japar was often assigned to do field work. Every time he does field work, he accomplishes a disbursement voucher for the amount that he needs and liquidates the voucher by submitting receipts to the MWSS cashier, Filomena, at the end of the day. One day, another MWSS employee, Jonas, desperately needed ₱230,000. Taking the same disbursement voucher that Japar habitually signs in the morning, Jonas filled it out with the amount that he needed. He then forged the signature of Japar before presenting it to Filomena, who in turn released the stated amount. After some time, Filomena noticed that the voucher remained unliquidated. When Filomena showed the voucher to Japar, the latter swiftly returned it, telling Filomena that the signature appearing in the voucher was not his. Filomena then realized that Jonas was the one who presented the voucher and took the money. When confronted, Jonas readily admitted to the act. He was eventually convicted of Malversation. Was the conviction of Jonas proper? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 112,
+    "text": "Before Milet drove to the public market one Sunday, she organized her money by bundling together her dollars worth US$4,000 and placed ₱20,000 in an envelope. She drove to the market, bought shrimps and oysters, then hurried back home to prepare lunch. While she was unloading the food from her car, the bundled US$4,000 unknowingly fell from her bag and rolled over to the sidewalk. At that moment, a lato-lato, owned by 13-year-old Henri, suddenly flew near the ",
+    "type": "essay"
+  },
   ];
 
 export default questions;
