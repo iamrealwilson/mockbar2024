@@ -259,6 +259,207 @@ const questions = [
     "text": "Quezon City assessed the Light Rail Transit Authority (LRTA) of real property taxes on its properties consisting of lands, buildings, machineries, and terminal stations. Despite repeated demands from Quezon City, LRTA failed to pay its outstanding obligations, prompting the city to issue a notice of delinquency with warrants of levy. LRTA questioned the assessments of Quezon City, claiming that it is exempt from real property tax. LRTA argues that it is operating a light rail transit system for the Philippines, which is the true owner of the subject real properties. Is LRTA exempt from real property tax? Explain briefly.",
     "type": "essay"
   },
+   {
+    "id": 53,
+    "text": "Christopher, a citizen of the United States (US), married Lila, a Filipino, in Dallas, Their marriage was later terminated by a divorce decree issued by a US court. At that time, their child, Amado, was only 18 months old. Lila and Christopher returned to the Philippines and settled in El Nido, Palawan. Christopher allegedly promised to give support to Amado in the amount of US$1,000 per month, but he never did. Subsequently, Christopher also settled in Cebu where he cohabited with another Filipino woman. When Lila learned of the whereabouts of Christopher, she filed a complaint against him for violation of the Anti-Violence Against Women and Their Children Act for his refusal to support Amado. Lila also invoked Article 195 of the Family Code, which provides for those who are obliged to support each other. She argued that notwithstanding their divorce, Christopher is not excused from complying with his obligation to support Amado. Is Lila correct in invoking Article 195 of the Family Code? Explain.",
+    "type": "essay"
+  },
+   {
+    "id": 54,
+    "text": "Nida and Deogracias were college sweethearts who had a child together named Mikael. When Mikael was three years old, Nida and Deogracias both died in a car accident while still planning their future Mikael was then put in the care of the unmarried sister of Nida, Nina, who officially adopted Mikael. A few years later, Nina left to work in the United States (US). Mikael was left to live with his grandmother, Aurora, in the Philippines. In the US, Nina bore an illegitimate child, Maricel, from her affair with a married man. When Maricel was 22 years old, Aurora died so Nina came home to the Philippines with Maricel for the funeral. Maricel finally met Mikael who is now 28 years old. The two of them fell in love and planned to get married. Nina objected, saying that their marriage was prohibited by law. Can Maricel and Mikael validly get married? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 55,
+    "text": "In 1981, JR married then 16-year-old Inka in a civil ceremony solemnized by the Mayor in their hometown. The couple lived together until 2007 when JR confessed to having an affair with Inka later discovered that JR and Elena got married in 1995. Inka thus filed a criminal complaint against JR for Bigamy. In his defense, JR insisted that he could not be held criminally liable for Bigamy because his marriage with Inka in 1981 is void for lack of a valid marriage license, while his marriage with Elena is void for lack of a marriage ceremony. Meanwhile, Elena claimed that even prior to the Bigamy case, she already filed a petition for nullity of marriage before the Regional Trial Court (RTC) of Quezon City sometime in 2007 after learning about the marriage between JR and Inka. The RTC later declared the marriage of JR and Elena as void for being bigamous, and the ruling attained finality due to lack of appeal. Does JR have a valid defense in the Bigamy case? Decide with reasons.",
+    "type": "essay"
+  },
+   {
+    "id": 56,
+    "text": "Santiago and Lucia started to live together as common-law husband and wife in 2000. In the course of their relationship, they acquired several properties which included a 600-square meter house and lot in Quezon City, a condominium unit in Taguig City, a four-hectare rest house in Batangas, a Range Rover vehicle, Lexus RX350 car, and an Indian Chief Bobber motorcycle. The purchases were mainly due to the successful salon and water refilling business of Lucia. Unfortunately, the records of these purchases were destroyed during Typhoon Ondoy in 2009. In 2023, their relationship turned sour and Lucia now wants to part ways with Santiago. However, there is a disagreement on how to divide their properties. Lucia filed a case in the Family Court, claiming that she is entitled to all of the properties. Is Lucia correct? Explain briefly.",
+    "type": "essay"
+  },
+   {
+    "id": 57,
+    "text": "Melchor, a Filipino, met and married Amy, a Parisian model in They had two daughters named Anna and Karenina. Eventually, they decided to settle in the Philippines. However, unknown to his family, Melchor was having an affair with another Parisian model, Genevieve. He arranged for Genevieve to reside in the Philippines and bought her a house in North Greenhills so that they could continue with their illicit affair. Juliette was born out of their affair. Juliette grew up not knowing that she was the illegitimate daughter of Melchor until the death of the latter. Upon discovering that her father had a legitimate family, Juliette sought to be recognized as an illegitimate daughter of Melchor since she had always longed for sisters. In her action to prove her illegitimate filiation, Juliette presented her birth certificate signed by Melchor, as well as photographs of her with Melchor in their home in North Greenhills. Amy, Anna, and Karenina opposed the action of Juliette. Will the action of Juliette prosper? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 58,
+    "text": "With the express consent of their respective parents, Jaime and Cathy, both 21 years old, decided to get married in a destination wedding in Boracay on Valentine’s Day The older brother and sister-in-law of Jaime were on their way home from the wedding on board a boat when it sank, leaving their 8-year- old son, Cesar, orphaned. Grief-stricken, Jaime and Cathy now want to adopt Cesar and raise him as their own. Are they qualified under the law to adopt Cesar? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 59,
+    "text": "Anita is an entertainer in Empyrea, a men’s club and One evening, Billy, the exclusive patron of Anita, asked her out on a date outside of Empyrea. After spending the night together, Billy got Anita pregnant. A year after giving birth to Marisol and despite the vehement opposition of Billy, Anita went back to her previous job in Empyrea to support her child. Anita was able to provide a house, a nanny, and other necessities for Marisol. Billy, however, insisted that Anita no longer needed to work if she and Marisol stayed with him as he could provide for them. Since Anita refused to live with Billy, the latter filed a petition for custody of Marisol. Anita contended that illegitimate children are automatically under the sole custody and parental authority of the mother. On the other hand, Billy alleged that Anita is unfit to take care of Marisol given her line of work. If you are the judge, how will you decide the petition? Explain.",
+    "type": "essay"
+  },
+   {
+    "id": 60,
+    "text": "Niccolo and his girlfriend Meann were classmates in medical When they finished their studies and started earning, they decided to invest in a condominium unit together which they hoped to lease out. Since Niccolo came from a rich family and was still receiving an allowance from his parents, the couple decided that Niccolo would shell out 2/3 (₱10 million) of the ₱15 million purchase price, while Meann would contribute 1/3 (₱5 million). They asked a mutual friend who was a law student to draw up a contract which reflected the mentioned interests. The contract also had a provision that their shares in the benefits as well as the charges affecting the property would be equal. They then found a long-term tenant who rented the property for ₱30,000 a month. Unfortunately, Niccolo and Meann broke up and are now quarreling over their respective shares in the rental income. Niccolo insists that he should get ₱20,000 or 2/3 of the monthly income while Meann claims that it should be ₱15,000 each. Who is correct? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 61,
+    "text": "Lani and Rufino died leaving four children, two of whom are Arturo and The heirs signed a document selling half of the property of their parents to their friend, Honorato. One of the remaining quarters was occupied by Ildefonso and Bienvenido, the children of Arturo, while the other quarter was sold by Bugoy to the Spouses Cruz by virtue of a deed of sale. Shortly after, the Spouses Cruz filed an ejectment case against Ildefonso and Bienvenido for the 1/4 portion of the subject property that they purchased. On the other hand, Bienvenido filed a complaint for recovery of ownership, quieting of title, and annulment of deed of sale against the Spouses Cruz. He alleged that the deed of sale is void since Bugoy is not the true and real owner of the subject property, which originally belonged to the estate of Rufino. On the other hand, the Spouses Cruz argued that Bienvenido availed of the wrong remedy, and claimed that the heirs had already agreed to divide the property among themselves when they allowed a portion of the property to be occupied by the heirs of Arturo. Will the complaint of Bienvenido prosper? Discuss.",
+    "type": "essay"
+  },
+   {
+    "id": 62,
+    "text": "Marvic inherited a piece of land and decided to farm it. The land was bordered on all sides by properties belonging to other owners. The surrounding property closest to the public highway is owned by Willing to pay compensation, Marvic talked to Renato about granting him access to the highway but Renato refused. Renato reasoned that there is another access point for Marvic through a dirt road that connects to the public highway without passing through his property. Marvic argued that this is not convenient as it is twice the distance, circuitous, and unlit. As they could not reach an agreement, Marvic filed a complaint for easement of right of way against Renato. Should a compulsory right of way be granted in favor of Marvic? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 63,
+    "text": "Alejandro was a married airline executive who had a clandestine love affair with a pilot, Francisca. Six years later, Francisca ended the affair amicably because she wanted to get married herself and start a She soon met David, another pilot, and they got engaged. On the occasion of the impending nuptials of Francisca and David, Alejandro, feeling nostalgic and generous, donated a valuable painting (exclusively his own and not conjugal) to Francisca. Upon learning of the donation, the wife of Alejandro, who knew of the romantic past between the two, filed a complaint to have the donation nullified. Is the donation valid, void, or voidable? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 64,
+    "text": "Cora, who was married to Wenceslao, executed a last will and testament where she gave all of her exclusive properties to her niece, Cora later died without issue. Wenceslao subsequently opposed the probate of her will on the ground that he was deprived of his legitime. Is Wenceslao correct? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 65,
+    "text": "Felicia and Rocky met at a training convention and subsequently became They had children named Enrico and Euriz. One night while on his way home, Rocky met his end when his car collided with a speeding 15-wheeler truck along C-5 Road. A year later, the father of Rocky, Hilario, suffered a brain aneurysm and died. In the settlement of the estate of Hilario, Enrico and Euriz claimed an interest in the estate of their grandfather. They argued that as the biological children of Rocky, they are entitled to inherit from their grandparents by right of representation. The legitimate heirs of Hilario vehemently opposed the claim on the ground that Enrico and Euriz are barred from inheriting from the ascendants of Rocky. Are the legitimate heirs of Hilario correct? Explain your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 66,
+    "text": "The promissory note between Jhosep and Mario states: “Jhosep agrees and understands that upon failure on his part to pay the amount of One Hundred Thousand Pesos (₱100,000) on December 31, 2015, he agrees to pay the sum equivalent to six percent (6%) interest monthly from the date of default until the entire obligation is fully paid for.” Jhosep failed to pay on the stipulated On March 1, 2016, Mario filed a collection suit against Jhosep. In his defense, Jhosep stated that he was not yet in legal delay, as Mario had not made a demand against him. Is the contention of Jhosep correct? Explain.",
+    "type": "essay"
+  },
+   {
+    "id": 67,
+    "text": "On September 6, 2015, Mauro purchased from Antonio a motorcycle, as evidenced by a deed of sale. The purchase price was ₱88,700, with a down payment of ₱35,000, and the balance payable in 12 monthly installments, due and payable on the first day of each month starting December 1, As security for the balance, Mauro executed a chattel mortgage over the said motorcycle in favor of Antonio. However, Mauro failed to pay the monthly installments. After Antonio extrajudicially demanded payment for the balance, Mauro returned the property to Antonio. Is the return of the motorcycle equivalent to dación en pago? Discuss.",
+    "type": "essay"
+  },
+   {
+    "id": 68,
+    "text": "Nardo leased a house and lot from Jericho. Subsequently, Nardo subleased this property to The contract of sublease contained a stipulation to the effect that the rental payments of Paquito should be paid directly to Jericho, the principal lessor. Is this a stipulation pour autrui? Explain.",
+    "type": "essay"
+  },
+   {
+    "id": 69,
+    "text": "On October 10, 2010, Joaquin executed a deed of absolute sale in favor of Juancho involving the parcel of land of Joaquin situated in Surigao del Sur. Juancho did not register the deed of absolute sale with the Register of Deeds of Surigao del Sur. On October 30, 2010, Joaquin also executed another deed of absolute sale over the same property in favor of Martina who had no knowledge of the prior sale between Joaquin and Neither Juancho nor Martina took possession of the parcel of land subject of the two sales. However, after learning of the October 10, 2010 sale, Martina immediately caused the registration of her October 30, 2010 deed of absolute sale with the Register of Deeds of Surigao del Sur. Will Martina be able to invoke the principle “first in time, stronger in right” as against Juancho? Discuss.",
+    "type": "essay"
+  },
+   {
+    "id": 70,
+    "text": "Ibrahim borrowed money from Fidel, as evidenced by a loan Ibrahim used as collateral for the loan his parcel of land situated in Maria Luisa Estate Park in Cebu City. Under the terms of their agreement, Fidel has the exclusive and irrevocable option to buy the collateral for the amount of ₱100 million, inclusive of the borrowed amount of ₱50 million and interest therein at 6% per annum. When the loan matured, Ibrahim was unable to pay his loan obligation. Ibrahim, however, refused to sell his collateral to Fidel. May Fidel compel Ibrahim to sell his collateral by exercising the option to buy under the loan agreement? Discuss your answer.",
+    "type": "essay"
+  },
+   {
+    "id": 71,
+    "text": "Luna owns a passenger bus driven by her employee, Tomas. One day, the passenger bus collided with a car driven by Graciano. Graciano then filed a complaint for damages based on quasi-delict against He likewise instituted a criminal action against Tomas, but failed to reserve his right to institute a separate civil action for damages in the said criminal case. Luna filed a motion with the trial court for the deferment of trial, arguing that Tomas must be impleaded in the civil case because he committed the negligent act that caused damage to Graciano. Is Luna correct? Explain.",
+    "type": "essay"
+  },
+   {
+    "id": 72,
+    "text": "Rene and Sebastian, who are bitter enemies, engaged in a In the ensuing battle, Rene killed Sebastian with a shot to the head. In the criminal case for Murder filed against Rene, the heirs of Sebastian failed to establish funeral expenses due to the inadequacy of the evidence. Still, the trial court awarded temperate damages to the heirs, declaring that it cannot close its eyes to the fact that the heirs of Sebastian indeed incurred funeral expenses. Is the award proper? Discuss.",
+    "type": "essay"
+  },
+  
+  {
+    "id": 73,
+    "text": "Santos Hauling Incorporated (SHI) dismissed its drivers and helpers after discovering that they were committing anomalous transactions involving the sale of excess broilers and crates, without the knowledge and consent of SHI. The drivers and helpers filed a complaint for illegal dismissal against SHI. In its defense, SHI presented as evidence the affidavits of co-employees narrating the alleged anomalous transactions in detail. May the drivers and helpers be dismissed on the basis of these affidavits? Explain your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 74,
+    "text": "Maria met Ange, Louise, and Sam at a coffee shop one Maria promised she could send the three of them to work as bartenders in Scotland in exchange for ₱100,000 each. Ange, Louise, and Sam immediately agreed and gave the money to Maria. Upon receipt of the placement fees, Maria used the money to buy a luxury bag and posted it on her Instagram page. Ange, Louise, and Sam followed up on their employment in Scotland, but Maria stopped replying to them. After six months of waiting, Ange, Louise, and Sam filed a complaint for Illegal Recruitment in Large Scale against Maria. During trial, Ange, Louise, and Sam testified and presented a certification from the Department of Migrant Workers stating that Maria was neither licensed nor authorized to recruit people for employment. On the other hand, Maria claimed that she was not the one who recruited them but a certain Rashid, the president of the placement agency where Maria supposedly worked. Is Maria guilty of Illegal Recruitment in Large Scale? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 75,
+    "text": "Lipad Pinoy (LP), a licensed local recruitment agency, deployed Mutya for its principal, Alab Construction (AC), for a two-year project in Dubai. Mutya had been on the job for one year when, for unknown reasons, AC and LP terminated their agency agreement. Thereafter, AC failed to pay the salary of Mutya. Upon her return to the Philippines, Mutya sued both LP and AC for unpaid salaries and damages. May LP be held liable together with AC? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 76,
+    "text": "Bangko Norte (BN) implemented an “Exogamy Policy”, which prohibits employees from marrying their co-employees. Specifically, the policy states that when two of its employees marry each other, one of them must sever his or her employment Clara, who was hired as an account specialist, married her co-worker Ibarra, a loan specialist. Subsequently, BN terminated the employment of Clara but retained Ibarra. Clara argued that the policy should not apply to her since she was employed prior to its effectivity, and that said policy violates the Labor Code. She also pointed out that BN did not explain why it was her, and not Ibarra, whose employment was terminated. Since BN refused to reinstate her, Clara filed a complaint for illegal dismissal. Will the complaint of Clara prosper? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 77,
+    "text": "In computing the 13th month pay of its employees, Liwayway Company (LC) includes as basis not only the regular base pay but also the cash value of unused vacation and sick leaves. LC had been implementing this method for two years when it suddenly announced that the method was erroneous and would therefore be discontinued. May LC lawfully discontinue using this method? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 78,
+    "text": "Roman, an employee of Baltazar Company (BC), was reported to have fallen asleep during work hours and that he smelled of BC coordinated with Bibo Health Clinic, a facility accredited by the Department of Health, to conduct random drug testing on its employees. Roman tested positive during both the screening and confirmatory tests. BC asked Roman to explain why he should not be sanctioned and dismissed. Roman denied that he used drugs and claimed that a colleague who bore a grudge merely framed him. Unsatisfied with his explanation, BC sent Roman a notice of termination. Was the dismissal of Roman valid? Explain briefly.",
+    "type": "essay"
+  },
+  {
+    "id": 79,
+    "text": "Arnel, a 55-year-old seafarer who worked on board different foreign vessels, went to the office of the Social Security System (SSS) to avail of his retirement benefits. However, he found out that his contributions had not been paid by his principal employer, Pancho Lines (PL). When Arnel demanded an explanation from PL, the latter replied that it was not obligated to cover his SSS membership since he was hired abroad and covered by another insurance provider. Is PL correct? Discuss your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 80,
+    "text": "Araro Federation applied for registration as a federation in the agricultural It has under its membership a mix of five rank-and-file unions and five supervisory unions. One of the rank-and-file unions and one of the supervisory unions both belong to the same establishment, Ani Corporation (AC). AC opposed the application for registration citing the legal prohibition against the commingling of rank-and-file and supervisory employees. Is the opposition of AC meritorious? Explain briefly.",
+    "type": "essay"
+  },
+  {
+    "id": 81,
+    "text": "Lazara Corporation (LC) and Lazara Employees Union (LEU) forged a collective bargaining agreement (CBA). During the freedom period, a certification election was conducted where LEU lost to Samahan ng Manggagawa sa Lazara (SML), a rival union in the same SML then sent a letter to LC demanding for renegotiation of the existing CBA. LC refused to renegotiate the CBA claiming its validity for two more years. SML filed a notice of strike against LC on the ground of Unfair Labor Practice for the alleged refusal of the latter to comply with its duty to bargain collectively. Is the notice of strike meritorious? Explain briefly.",
+    "type": "essay"
+  },
+  {
+    "id": 82,
+    "text": "Adarna Manufacturing Company (AMC) and Adarna Employees Union (AEU) entered into collective bargaining negotiations but reached an AEU then filed a notice of strike before the National Conciliation and Mediation Board, which immediately conducted conciliation meetings to avert the strike. Fifteen days after the filing of the notice, and despite the conciliation proceedings, AEU staged a strike with the participation of 50% of its members. Is the strike legal? Briefly explain.",
+    "type": "essay"
+  },
+  {
+    "id": 83,
+    "text": "In 2011, Amer and Raj worked as welders on board the barges of Magiting Shipping Company (MSC), which later changed its corporate name to Perlas Corporation (PC). In 2018, PC verbally dismissed Amer and Raj from employment. Thus, they jointly filed a complaint for illegal dismissal against PC, which countered that it already had a separate and distinct personality from. It also alleged that both complainants were not its regular employees as they were merely helpers brought in by its own regular employees on certain occasions when urgent repairs were required for its barges. The Labor Arbiter (LA) held that there was an employer-employee relationship between the parties based on Article 295 [280] of the Labor Code since Amer and Raj: 1) were engaged to perform activities which are usually necessary or desirable in the usual business or trade of PC; and 2) have rendered at least one year of service. Was the LA correct in using Article 295 [280] as the basis? Explain briefly.",
+    "type": "essay"
+  },
+  {
+    "id": 84,
+    "text": "On May 15, 2022, Marina International Shipping (MIS) hired Felipe as a bosun on board its vessel for a period of nine months. On July 30, 2022, Felipe joined his vessel of On October 31, 2022, he was repatriated due to medical reasons and was immediately referred by MIS to its company-designated physician for treatment and monitoring. On May 31, 2023, the company- designated physician pronounced Felipe fit to resume sea duties. Is MIS obligated to rehire Felipe? Explain briefly.",
+    "type": "essay"
+  },
+  {
+    "id": 85,
+    "text": "Sampaguita University (SU) hired Farah as Instructor I in the College of Education on a contractual or part-time basis beginning the first semester of school year 2015-2016. In 2018, SU appointed Farah as Instructor II. SU informed her that she will attain regular status on the condition that she obtain a master’s degree by May 31, 2022, otherwise, her employment will either be terminated or considered as contractual or part-time. When Farah failed to secure the required educational qualification within the allotted time, SU classified her as a part-time faculty effective June 1, 2022. On April 30, 2023, SU notified Farah that they will no longer be renewing or extending her contract as part-time faculty upon its Farah thus filed a complaint for illegal dismissal. Will her complaint prosper? Discuss your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 86,
+    "text": "Eduardo owns a licensed company that supplies janitorial and messengerial aides to various businesses, including Gloria Restaurant (GR). The tools and supplies used by the janitors and messengers are supplied by the clients who also train the workers and monitor their performance. Their minimum wages are paid by the clients through Eduardo. After two years of working in GR, the janitors and messengers joined the union there to receive the same benefits as the directly hired employees of GR. Can the janitors and messengers legally join the union? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 87,
+    "text": "Ulap Airlines (UA) hired Salve as a cabin crew in 2010. Due to her hard work and spotless service record, she was eventually promoted to senior purser, a position imbued with trust and In 2023, after a flight from Sydney to Manila, management received a report that Salve and other cabin crew alighted from the aircraft with two cups of instant noodles and a can of soda, which were part of the in-flight provisions for passengers. The items were confiscated and the cabin crew were required to explain why those items were in their possession. In her written explanation, Salve claimed that the cups of instant noodles were purchased with her own money and that it was another flight attendant who admitted to taking the can of soda. After investigation, UA still terminated her employment on the grounds of serious misconduct and loss of trust and confidence. Was Salve validly dismissed? Discuss briefly.",
+    "type": "essay"
+  },
+  {
+    "id": 88,
+    "text": "Rajah Management (RM), the authorized local placement agency of Sultan Group (SG), posted a job listing for project manager based in Qatar. Silang applied for the position. After RM forwarded the documents of Silang to SG for the processing of her work visa, SG sent a tourist visa notice instead of a work visa. Six months into her two-year contract, Silang was repatriated by SG with instructions to apply anew for deployment under a work RM directed Silang to undergo a pre-employment medical examination. When it was discovered that she has uncontrolled diabetes, SG terminated her employment. Thus, Silang filed a complaint for illegal dismissal against SG and RM. SG argued that the disease of Silang was a valid cause for dismissal. Is the contention of SG correct? Discuss.",
+    "type": "essay"
+  },
+  {
+    "id": 89,
+    "text": "University of San Lazaro (USL) hired Dolores to work as a credit and collection officer in its accounting department. Based on its audit reports, USL found several anomalous transactions within the accounting department, resulting in a shortage of ₱2 Dolores went on leave during the audit, but later tendered her resignation. After its investigation, USL terminated the employment of Dolores and filed a criminal case against her. Dolores subsequently filed a complaint for illegal dismissal against USL, which claimed that Dolores had voluntarily resigned. Will the complaint of Dolores prosper? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 90,
+    "text": "In 2012, Magbanua Hotel (MH) hired Josefa and assigned her to the food and beverage For six consecutive years, Josefa worked five days a week. However, in 2018, MH, suddenly and without explanation, reduced the regular workdays of Josefa to two days per week, resulting in the reduction of her take- home pay. Josefa thus filed a complaint for constructive dismissal. In belying her claim, MH insisted that there could be no constructive dismissal because Josefa still continued reporting for work even during the pendency of the case. Was Josefa constructively dismissed? Decide with reasons.",
+    "type": "essay"
+  },
+  {
+    "id": 91,
+    "text": "Consolacion is a Hong Kong-based, Filipino flight attendant of Hiroshi Airlines (HA), a Japanese airline licensed to do business in the Philippines. She was dismissed from employment as she was accused of stealing wine bottles and cheese from the Melbourne-bound aircraft of HA. Consolacion then instituted a complaint for illegal dismissal and money claims against HA with the Labor Arbiter (LA). In its defense, HA asserted that the LA had no jurisdiction to hear the dispute as the incident occurred in a foreign jurisdiction and involved a foreign entity. Does the LA have jurisdiction over the case? Explain.",
+    "type": "essay"
+  },
+  {
+    "id": 92,
+    "text": "The employees of Bonifacio Memorial Hospital (BMH), who are union officers and members of BMH Nurses Association, staged a strike to protest the failure of BMH to provide them with adequate personal protective equipment and sufficient hazard pay. What legal remedy can BMH avail of to immediately enjoin the strike as well as ensure the proper protection of the life and health of its patients? Explain your answer.",
+    "type": "essay"
+  },
   ];
 
 export default questions;

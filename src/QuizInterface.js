@@ -43,7 +43,7 @@ const modules = {
   const [showFinishMessage, setShowFinishMessage] = useState(false);
   const [questionText, setQuestionText] = useState('');
 
-  const totalQuestions = 52;
+  const totalQuestions = 92;
 
 	const getQuestionById = (data, id) => {
 	  const filtered = data.filter(item => item.id === id);
