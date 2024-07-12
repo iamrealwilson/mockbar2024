@@ -159,6 +159,106 @@ const questions = [
     "text": "Who are the public officers?",
     type: "essay"
   },
+  {
+    "id": 33,
+    "text": "Juan, acting as president of Maharlika Car Dealers Incorporated (MCDI), entered into a contract of long-term lease with Antonino over a large commercial property along Pasong Tamo Avenue owned by the latter. When Antonino received a better offer for the commercial property, and having learned that MCDI was not formally incorporated with the Securities and Exchange Commission, he sought to have the contract of lease nullified on the ground that it was void for lack of the essential element of consent, since the lessee was not a juridical person with capacity to contract. May Juan, acting on behalf of MCDI, which is in the process of incorporation, legally insist on the enforceability and binding effect of the contract of lease as against Antonino? Explain your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 34,
+    "text": "Datu Commercial Corporation (DCC), a publicly-listed company with the Philippine Stock Exchange, incorporated Kidlat Close Corporation (KCC), investing into 91% of its outstanding capital. The chairman, president, and executive vice-president of DCC are incorporators of KCC, each holding 3% of the outstanding capital stock. The articles of incorporation of KCC provided: 1) a limit on the number of shareholders, which shall never exceed five; 2) a right of first refusal; and 3) a prohibition on the shares from being listed or being publicly offered. Pending the issuance by the Securities and Exchange Commission (SEC) of the Certificate of Registration, the vice-president of KCC entered into a long-term contract of lease on behalf of KCC, which was declared therein as undergoing incorporation with the SEC. Is DCC qualified to be an incorporator of KCC although it is a juridical entity? Explain your answer.",
+    type: "essay"
+  },
+  {
+    "id": 35,
+    "text": "The Board of Directors of Mabini Corporation (MC) unanimously adopted a resolution directing its management to issue as fully paid 10,000 common shares to Atty. Apolinario for successfully prosecuting in favor of MC the derivative suit filed by a minority stockholder over mismanagement of corporate affairs. If the issuance of the 10,000 common shares in the name of Atty. Apolinario is by way of stock dividends to be credited from the unrestricted retained earnings of MC, would such issuance be valid? Explain your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 36,
+    "text": "The articles of incorporation of Dakila Incorporated (DI) provides for a seven- member Board of Directors. Florante, the chairperson of the Board, resigned barely two months into office while Laura, another director, died in a vehicular accident on her sixth month in office, thereby leaving only five members in the Board. The one-year term of office of the remaining directors had just ended without an annual stockholders’ meeting being held since Laura was actually the majority stockholder of DI and her estate was still being settled. May the remaining five directors, acting as the Board, fill in the vacancies in the Board? Explain your answer.",
+    type: "essay"
+  },
+  {
+    "id": 37,
+    "text": "Singha Corporation (SC), a corporation organized and existing under Singapore laws, filed a complaint for a sum of money and damages against Muni Corporation (MC), a Philippine-incorporated company, before the Regional Trial Court (RTC) of Manila. SC alleged in its complaint that it was neither doing business nor licensed to do business in the Philippines and that it was suing MC on an isolated transaction involving a contract for design consultation and drawing development. MC allegedly failed to pay the remaining 50% of the contract price despite repeated demands by SC. During trial, SC admitted filing a prior collection suit against another company in the RTC. Hence, MC filed a motion to dismiss the case on the ground that contrary to its allegation, SC was in fact doing business in the Philippines without a license and thus had no legal capacity to sue. Will the motion of MC prosper? Explain.",
+    type: "essay"
+  },
+  {
+    "id": 38,
+    "text": "Procopio owns the controlling interest in Ginto Bank (GB). Due to the promising potential of lending with real estate collateral, the bank is primarily focused on said transactions. After the Bangko Sentral ng Pilipinas (BSP) conducted its examination of GB, the bank was placed under receivership due to illiquidity, as well as unsafe and unsound banking practices. Procopio contends that the actions of the BSP were arbitrary and denied GB its right to due process. He said that GB should have been given due notice and prior hearing, where the bank could have explained the reasons for its illiquidity. Is the contention of Procopio correct? Explain your answer.",
+    type: "essay"
+  },
+  {
+    "id": 39,
+    "text": "Jacinto, the Governor of Sorsogon, maintains United States (US) dollar deposits in various offshore banks at the Cayman Islands, British Virgin Islands, and Switzerland. In an exposé by Balita Magazine called “Pandora Papers”, the writer detailed the offshore deposits of Jacinto amounting to US$60 million as well as his other investments and holding companies. Aggrieved, Jacinto filed a criminal complaint against Balita Magazine for violation of bank secrecy laws, alleging that his US dollar bank deposits were illegally disclosed even though they were neither involved in any civil or criminal case against him nor subjected to any investigation by the Anti-Money Laundering Council. Will the complaint of Jacinto prosper? Discuss your answer.",
+    type: "essay"
+  },
+  {
+    "id": 40,
+    "text": "Atty. Diwa is the lawyer of Tala in a criminal case for Estafa before the Regional Trial Court of Manila. After one of their hearings, Tala gave Atty. Diwa ₱10 million for safekeeping, which Tala admitted in confidence that it was part of the proceeds of her swindling activities. The husband of Atty. Diwa found out about this and reported it to the Anti-Money Laundering Council (AMLC). The AMLC demanded Atty. Diwa to disclose the details of her transaction with Tala, but she refused. Can Atty. Diwa validly refuse to report her transaction with Tala? Discuss your answer.",
+    type: "essay"
+  },
+  {
+    "id": 41,
+    "text": "Emilio owns a car which he purchased from Gregorio. Emilio agreed to pay Gregorio the balance of the purchase price in the amount of ₱500,000 within one year. To secure the payment of the balance, Emilio and Gregorio executed a security agreement that complies with the requirements of the Personal Property Security Act (PPSA). The security interest was also perfected in accordance with the PPSA. Who has insurable interest over the car? Explain your answer.",
+    type: "essay"
+  },
+  {
+    "id": 42,
+    "text": "Diego, a cancer survivor, filed an application for a life insurance policy with Garantiya Insurance Company (GIC). He delivered his application and insurance premium to Gabriela, the officer of GIC in charge of approving life insurance policies. Gabriela then approved the application of Diego on June 1, 2020. On January 30, 2023, Diego died in a vehicular accident. When the heirs of Diego claimed the insurance proceeds, GIC denied the claim on the ground that Diego had concealed the fact of his illness. Moreover, Gabriela knew about the illness of Diego but also concealed it from GIC. Is the denial of the insurance claim by GIC proper? Discuss.",
+    type: "essay"
+  },
+  {
+    "id": 43,
+    "text": "Hari and Reyna booked a honeymoon package at Anya Resort (AR) in Palawan which included transportation from Batangas to Palawan, and vice versa, via M/B Prinsesa owned and operated by AR. Despite PAGASA storm warning bulletins, M/B Prinsesa proceeded to ferry Hari and Reyna from the port of Batangas to Palawan. While in open seas, the boat was hit by big waves and eventually capsized, drowning Hari and Reyna. When sued by the heirs of the couple, AR denied liability on the ground that it is not a common carrier, as M/B Prinsesa is not available to the general public or other tourists, and exclusively ferries resort guests and crew members. AR further argued that they did not charge Hari and Reyna separate fees to board M/B Prinsesa. Are the arguments of AR correct? Discuss your answer.",
+    type: "essay"
+  },
+  {
+    "id": 44,
+    "text": "Kagandahan Corporation (KC) has been manufacturing medicated facial creams with the brand name “Kutis” since 2010. The facial creams are contained in pink, oval-shaped containers. However, KC did not secure a trademark registration for the brand name and the packaging. Later, upon discovering that there is no existing trademark registration in favor of KC, Bighani Corporation (BC) manufactured its own facial creams using different ingredients and procedure but under the trademark “Kutis” and sold the facial creams in pink, oval-shaped containers similar to those sold by KC. However, the label of BC specifically indicates that it is manufactured by BC. Is BC liable for Unfair Competition? Discuss your answer.",
+    type: "essay"
+  },
+  {
+    "id": 45,
+    "text": "Atty. Matalas prepared a deed of sale which contains all the elements necessary to perfect the contract, particularly a statement of the agreement to transfer in an absolute manner the parcel of land that was specifically described as well as the price certain. Impressed by his own draft deed of sale, Atty. Matalas wants to use the deed that he prepared as a template and to secure a copyright registration for the same. Can Atty. Matalas secure a copyright registration for the template? Discuss your answer.",
+    type: "essay"
+  },
+  {
+    "id": 46,
+    "text": "Julio secured a copyright registration for a drawing of a light box. Julio used the drawing for his advertisements indicating the new internal electronic design features of the light box. Ten years after the registration of the copyright, Julian decided to manufacture and sell a light box with the same internal electric design features as the light box drawing created by Julio. However, the physical appearance of the light box manufactured by Julian is different. Julio objected to the manufacture by Julian of the light box on the ground that he (Julio) is the inventor of the light box design. Is the objection of Julio valid? Discuss.",
+    type: "essay"
+  },
+  {
+    "id": 47,
+    "text": "China Telecommunication Company (CTC), a Chinese state-owned enterprise, sought to acquire 40% equity in Duon Telecommunication Corporation (DTC), a telecommunications company in the Philippines. When questioned by the two major telecommunication companies in the Philippines, Cheng, the president of DTC, defended the proposed acquisition by saying that CTC is allowed to own 40% equity pursuant to the nationality requirement under the 1987 Constitution. Is the argument of Cheng correct? Discuss your answer.",
+    type: "essay"
+  },
+  {
+    "id": 48,
+    "text": "Upon seeing the global popularity of Korean culture, the President of the Philippines wanted to export Philippine culture as well. Thus, he met with both the Secretary of Tourism and the Chairperson of the National Commission for Culture and the Arts to come up with a plan to make Philippine culture the next big thing. After a series of meetings with industry stakeholders and with a resolution of support from Congress, the President issued a presidential proclamation granting tax exemptions to members of the Philippine entertainment and culinary industries who export 70% of their products and services. The proclamation also grants additional tax incentives (such as an income tax holiday) to artists, directors, chefs, studios (both TV and music), and authors who gain international acclaim. Is the proclamation constitutional? Explain your answer.",
+    type: "essay"
+  },
+  {
+    "id": 49,
+    "text": "Pedro ran a gambling den in the basement of a bar called Apolaki in Intramuros, Manila. His gambling operations consisted of a pastime from the late 1700’s called “Ratting”, where barrels of rats would be released in a fenced-off area for a cat to eat. Bettors would then wager on how many rats would be killed by the cat in a certain given time. As can be easily gathered, this is highly illegal. The apparent illegality did not stop Pedro from making millions of pesos from onsite and online bettors. Needless to say, Pedro did not file an income tax return to report his income. Based on the complaint of the Commissioner of Internal Revenue, the Department of Justice filed an information against Pedro for Failure to File Income Tax Return under Section 255 of the National Internal Revenue Code. In his defense, Pedro argued that the profits from the gambling operations are not income in the first place because declaring such would violate his right against self-incrimination. Hence, he is not required to file any income tax return. Is the argument of Pedro tenable? Explain.",
+    type: "essay"
+  },
+  {
+    "id": 50,
+    "text": "Marites is the chief executive officer and sole shareholder of Tsismis Ngayon OPC (TNO), a One Person Corporation that runs a popular blog about showbiz news and juicy gossip. From March to April 2023, Marites asked her daughter, Laya, to work as an intern in the corporation and help around the press room. Her main duties were brewing coffee for the editorial staff and printing out hard copies of TNO blog posts for filing purposes. Laya did a decent (but not excellent) job as an intern in her two-month stint with TNO, except for the one time when she added two packets of sugar to the cup of coffee of a diabetic senior officer. Proud of the performance of Laya, Marites issued a TNO resolution granting a ₱2 million bonus to Laya. Laya used the ₱2 million bonus to buy a new car. Can TNO claim the ₱2 million bonus as a deduction? Explain your answer.",
+    "type": "essay"
+  },
+  {
+    "id": 51,
+    "text": "Ikapati Corporation (IC) is a value-added tax (VAT)-registered corporation that sells various kinds of instant noodles. It is recognized as the industry leader, especially after its spicy bulalo flavor gained immense popularity in December 2021. The success of IC has been attributed to its tax lawyer, Atty. Mahal, who helps IC understand the National Internal Revenue Code to its advantage. To show its appreciation, IC sent Atty. Mahal 1,000 boxes of spicy bulalo instant noodles. Is the transfer of 1,000 boxes of instant noodles to Atty. Mahal subject to VAT? Explain.",
+    type: "essay"
+  },
+  {
+    "id": 52,
+    "text": "Quezon City assessed the Light Rail Transit Authority (LRTA) of real property taxes on its properties consisting of lands, buildings, machineries, and terminal stations. Despite repeated demands from Quezon City, LRTA failed to pay its outstanding obligations, prompting the city to issue a notice of delinquency with warrants of levy. LRTA questioned the assessments of Quezon City, claiming that it is exempt from real property tax. LRTA argues that it is operating a light rail transit system for the Philippines, which is the true owner of the subject real properties. Is LRTA exempt from real property tax? Explain briefly.",
+    "type": "essay"
+  },
   ];
 
 export default questions;
