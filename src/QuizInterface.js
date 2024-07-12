@@ -5,7 +5,7 @@ import axios from 'axios';
 import ReactQuill from 'react-quill';
 import 'react-quill/dist/quill.snow.css'; // import styles
 import './RichTextEditor.css'; // for custom styles
-import questions from './questions.js'
+import questions from './FCivilA.js';
 
 const QuizInterface = () => {
 
@@ -43,10 +43,10 @@ const modules = {
   const [showFinishMessage, setShowFinishMessage] = useState(false);
   const [questionText, setQuestionText] = useState('');
 
-  const totalQuestions = 112;
+  const totalQuestions = 124;
 
 	const getQuestionById = (data, id) => {
-	  const filtered = data.filter(item => item.id === id);
+	  const filtered = data.filter(item => item.questionId == id);
 	  return filtered.length > 0 ? filtered[0].text : null;
 	}
 
